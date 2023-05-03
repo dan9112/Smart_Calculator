@@ -91,6 +91,9 @@
       <module name="Smart_Calculator.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="16" />
       <module name="Smart_Calculator.Topics-Standard_output-What_does_the_code_print.main" target="16" />
       <module name="Smart_Calculator.Topics-Standard_output-What_does_the_program_print.main" target="16" />
+      <module name="Smart_Calculator.Topics-Type_cast_and_smart_cast-Converting_to_string.main" target="16" />
+      <module name="Smart_Calculator.Topics-Type_cast_and_smart_cast-Theory.main" target="16" />
+      <module name="Smart_Calculator.Topics-Type_cast_and_smart_cast-Writing_a_string_counter.main" target="16" />
       <module name="Smart_Calculator.Topics-Type_conversion-Existing_functions.main" target="16" />
       <module name="Smart_Calculator.Topics-Type_conversion-Lie_detector.main" target="16" />
       <module name="Smart_Calculator.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="16" />
